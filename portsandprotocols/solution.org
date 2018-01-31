@@ -1,0 +1,25 @@
+* Ports and protocols questions. Most of the questions were straightforward. The easiest way to find an answer is to google the port and protocol.
+
+| Points | Question                 | Solution      |
+|      1 | IP Protocol #1           | ICMP          |
+|      6 | IP Protocol #6           | TCP           |
+|     17 | IP Protocol #17          | UDP           |
+|     20 | UDP/53                   | DNS           |
+|     21 | TCP/21                   | FTP           |
+|     22 | Lock icon + turtle shell | SSH,TCP/22    |
+|     24 | TCP/80                   | HTTP          |
+|     25 | TCP/25                   | SMTP          |
+|     26 | UDP/66,UDP/67, DORA      | DHCP          |
+|     30 | TCP/123                  | NTP           |
+|     31 | TCP/3306                 | MySQL         |
+|     32 | TCP/5432                 | PostgreSQL    |
+|     41 | UDP/69                   | TFTP          |
+|     42 | TCP/636                  | LDAPS         |
+|     43 | UDP/5353                 | mDNS          |
+|     60 | TCP/4786                 | smart-install |
+|     61 | TCP/3268                 | msft-gc       |
+|     62 | TCp/502                  | modbus        |
+|     63 | UDP/5228                 | chrome        |
+|     70 |                          |               |
+|     71 |                          |               |
+|     80 |                          |               |
